@@ -70,7 +70,7 @@ npm install
 
 Primeiramente deve-se ter em mente que a estrutura utilizada pelo React é a do JSX. Ela é uma sintaxe semelhante ao XML, na qual você consegue escrever e compreender de uma forma melhor como será montado o seu component na UI (User Interface).
 
-Utiliza-se componentes JSX para organizar a UI e o js para realizar a parte lógica. Por exemplo:
+Utiliza-se componentes JSX para organizar a UI e o js para realizar a parte lógica. Exemplo de componente JSX:
 
 ```
 const nav = (
@@ -87,7 +87,7 @@ const nav = (
 )
 ```
 
-Nesse código é cria uma contante que recebe um componente JSX. Em um componente JSX sempre deve existir um componente que irá englobar os demais. No exemplo a cima o <nav> engloba os demais. Se o código não possuisse um componente que englobasse os demais iria gerar erro. Exemplo de erro:
+Em um componente JSX sempre deve existir um componente que irá englobar os demais. No exemplo acima o <nav> engloba os demais. Se o código não possuisse um componente que englobasse os demais ele iria gerar erro. Exemplo de erro:
 
 ```
 <h1>Exemplo de erro</h1>
