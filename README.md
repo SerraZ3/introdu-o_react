@@ -59,7 +59,7 @@ Em seguinda dar o seguinte comando:
 npm start
 ```
 
-Ele irá abrir o projeto por padrão no -localhost:3000/-. Caso precise instalar alguma dependencia dê o comando a seguir antes do comando anterior
+Ele irá abrir o projeto por padrão no _localhost:3000/_. Caso precise instalar alguma dependencia dê o comando a seguir antes do comando anterior
 
 ```
 npm install
