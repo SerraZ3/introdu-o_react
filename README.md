@@ -1,6 +1,6 @@
 # Introdução React
 
-Essa material está sendo criando com intuito de facilitar o aprendizado dos membros da [Associação Empresa Junior de Computação da UESC (TecnoJr)](https://www.tecnojr.com.br/) e qualquer outro estudante da área de computação que tenha o desejo de aprender React
+Esse material está sendo criando com intuito de facilitar o aprendizado dos membros da [Associação Empresa Junior de Computação da UESC (TecnoJr)](https://www.tecnojr.com.br/) e qualquer outro estudante da área de computação que tenha o desejo de aprender React
 
 **Desenvolvido por:**
 [Henrique A. Serra](https://github.com/SerraZ3/) :smile: :metal:
@@ -45,21 +45,21 @@ Após realizar a etapa anterior, deve abrir o terminal e digitar o seguinte coma
 create-react-app nome_projeto
 ```
 
-Nele irá criar uma pasta padrão do React com todas suas configurações base.
+Ele irá criar uma pasta padrão do React com todas suas configurações e arquivos base.
 
-Para rodar o react basta entrar na pasta do seu nome_projeto
+Para rodar o React basta entrar na pasta do seu nome_projeto:
 
 ```
 cd nome_projeto
 ```
 
-Em seguinda da o seguinte comando:
+Em seguinda dar o seguinte comando:
 
 ```
 npm start
 ```
 
-Ele irá abrir o projeto por padrão no ~localhost:3000/~. Caso precise instalar alguma dependencia dê o comando a seguir antes do comando anterior
+Ele irá abrir o projeto por padrão no -localhost:3000/-. Caso precise instalar alguma dependencia dê o comando a seguir antes do comando anterior
 
 ```
 npm install
